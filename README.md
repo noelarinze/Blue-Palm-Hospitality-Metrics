@@ -1,13 +1,13 @@
 # Blue-Palm-Hospitality-Metrics
 
 ## Table of content
-- [Project Overview](project-overview)
-- [Data source](data-source)
-- [Tools](tools)
-- [Exploratory data analysis](#exploratory-data-analysis)
-- [Data analysis](#data-analysis)
-- [Results](#results)
-- [Recommendations](#recommendations)
+- [Project Overview](https://github.com/noelarinze/Blue-Palm-Hospitality-Metrics/edit/main/README.md#project-overview)
+- [Data source](https://github.com/noelarinze/Blue-Palm-Hospitality-Metrics/edit/main/README.md#data-source)
+- [Tools](https://github.com/noelarinze/Blue-Palm-Hospitality-Metrics/edit/main/README.md#tools)
+- [Exploratory data analysis](https://github.com/noelarinze/Blue-Palm-Hospitality-Metrics/edit/main/README.md#exploratory-data-analysis)
+- [Data analysis](https://github.com/noelarinze/Blue-Palm-Hospitality-Metrics/edit/main/README.md#data-analysis)
+- [Results](https://github.com/noelarinze/Blue-Palm-Hospitality-Metrics/edit/main/README.md#results)
+- [Recommendations](https://github.com/noelarinze/Blue-Palm-Hospitality-Metrics/edit/main/README.md#recommendations)
 
 ## Project Overview
 This data analysis project is aimed to analyze the booking data of Blue palms in order to identify trends, comprehend consumer behavior, and offer useful suggestions for tactical decision-making.
